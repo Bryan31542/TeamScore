@@ -3,4 +3,8 @@
     <string name="head_team_a">Team A</string>
     <string name="action_add_goal">+1 Goal</string>
     <string name="head_team_b">Team B</string>
+    <string name="action_save">Guardar</string>
+    <string name="text_winner">Ganador</string>
+    <string name="text_loser">Perdedor</string>
+    <string name="text_tie">Empate</string>
 </resources>
